@@ -1,4 +1,4 @@
-# Chat Bot com LangGraph + Langchain-LiteLLM
+# Avaliador Redação com LangGraph + Langchain-LiteLLM
 
 Este projeto avaliador de redação baseado em [LangGraph](https://github.com/langchain-ai/langgraph) e [Langchain-LiteLLM](https://docs.litellm.ai/docs/), utilizando o gerenciador de pacotes [uv](https://docs.astral.sh/uv/reference/cli/) para dependências.
 
