@@ -1,0 +1,11 @@
+[project]
+name = "02-avaliador-redacao"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain-litellm>=0.2.0",
+    "langgraph>=0.4.1",
+    "python-dotenv>=1.1.0",
+]
